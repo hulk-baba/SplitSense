@@ -6,5 +6,12 @@ $username = $url["user"];
 $password = $url["pass"];
 $db = substr($url["path"], 1);
 
-$conn = new mysqli($server, $username, $password, $db);
+if(!mysql_connect($server,$username,$password))
+{
+     die('oops connection problem ! --> '.mysql_error());
+}
+if(!mysql_select_db($db))
+{
+     die('oops database selection problem ! --> '.mysql_error());
+}
 ?>
