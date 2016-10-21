@@ -1,6 +1,9 @@
-NotRequiredAsOfNow/*
+
 /app.json
 /bill.php
 /composer.json
 /composer.lock
-	
+/Procfile
+/Names.txt
+*.txt
+NotRequiredAsOfNow/*
