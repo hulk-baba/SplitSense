@@ -10,6 +10,7 @@
 /Procfile
 /murg.php
 /moosh.php
+/path.php
 /Names.txt
 *.txt
 *.cpp
