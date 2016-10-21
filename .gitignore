@@ -1,4 +1,4 @@
 NotRequiredAsOfNow/*
-*.app
-*.bill
+/app.json
+/bill.php
 *.compo	
