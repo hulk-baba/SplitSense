@@ -1,6 +1,6 @@
-.NotRequiredAsOfNow
-.app.json
-.bill.php
-.composer.json
-.composer.lock
+*.NotRequiredAsOfNow
+*.app.json
+*.bill.php
+*.composer.json
+*.composer.lock
 
