@@ -1,4 +1,6 @@
 NotRequiredAsOfNow/*
 /app.json
 /bill.php
-*.compo	
+/composer.json
+/composer.lock
+	
